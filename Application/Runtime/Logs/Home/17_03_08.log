@@ -1,0 +1,988 @@
+[ 2017-03-08T15:36:13+08:00 ] 61.145.182.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:36:13+08:00 ] 61.145.182.18 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:16+08:00 ] 61.145.182.18 /index.php/Home/User/ValidateCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:23+08:00 ] 180.153.211.172 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:36:23+08:00 ] 180.153.211.172 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:27+08:00 ] 61.145.182.18 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:36:28+08:00 ] 61.145.182.18 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:36:28+08:00 ] 61.145.182.18 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Think\Controller::Head_data() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [2048] Non-static method Home\Controller\UserController::Main() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_system` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_system` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:29+08:00 ] 61.145.182.18 /index.php/Home/User/iframe?CONTROLLER_NAME=System&ACTION_NAME=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:29+08:00 ] 61.145.182.18 /index.php/Home/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_system` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_system` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sentitle D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 47 行.
+NOTIC: [8] Undefined index: s_400 D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:32+08:00 ] 61.145.182.18 /index.php/Home/Department/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\DepartmentController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_department` [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM tp_department as a LEFT JOIN tp_department_post as b on a.id =b.department_id LEFT JOIN tp_users as c on c.id =a.principal_id LEFT JOIN tp_department as d on d.id =a.ups  WHERE a.state = 1 GROUP BY a.id ORDER BY a.update_time desc,b.update_time desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT a.*,GROUP_CONCAT(b.name separator "，") as post_name,c.username as principal_name,d.name as ups_name FROM tp_department as a LEFT JOIN tp_department_post as b on a.id =b.department_id LEFT JOIN tp_users as c on c.id =a.principal_id LEFT JOIN tp_department as d on d.id =a.ups  WHERE a.state = 1 GROUP BY a.id ORDER BY a.update_time desc,b.update_time desc LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: PanelHead D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 14 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+NOTIC: [8] Use of undefined constant ups_name - assumed 'ups_name' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3f4325ade8e39641b6bcd933d824793.php 第 35 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:38+08:00 ] 61.145.182.18 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 167 行.
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 0 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+NOTIC: [2] krsort() expects parameter 1 to be array, null given D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 196 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:39+08:00 ] 61.145.182.18 /index.php/Home/System/func?ups=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 1 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:36:40+08:00 ] 180.153.206.20 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:36:40+08:00 ] 180.153.206.20 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2017-03-08T15:36:45+08:00 ] 61.145.182.18 /index.php/Home/System/func?ups=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 2 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:37:01+08:00 ] 61.145.182.18 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 167 行.
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 0 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+NOTIC: [2] krsort() expects parameter 1 to be array, null given D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 196 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:37:11+08:00 ] 61.151.226.16 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:37:11+08:00 ] 61.151.226.16 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:44:42+08:00 ] 61.145.182.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0625s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:44:42+08:00 ] 61.145.182.18 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015625s ]
+
+[ 2017-03-08T15:44:42+08:00 ] 61.145.182.18 /index.php/Home/User/ValidateCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:57:30+08:00 ] 61.145.182.18 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:57:35+08:00 ] 61.145.182.18 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T15:57:36+08:00 ] 61.145.182.18 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2048] Non-static method Think\Controller::Head_data() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 10 行.
+NOTIC: [2048] Non-static method Home\Controller\UserController::Main() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 18 行.
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 94 行.
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_system` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `tp_system` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\canku\wwwroot\Application\Common\ORG\Tree.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:57:36+08:00 ] 61.145.182.18 /index.php/Home/User/iframe?CONTROLLER_NAME=System&ACTION_NAME=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:57:36+08:00 ] 61.145.182.18 /index.php/Home/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `tp_system` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_system` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: sentitle D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 47 行.
+NOTIC: [8] Undefined index: s_400 D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 101 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T15:57:53+08:00 ] 61.145.182.18 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 167 行.
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 0 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+NOTIC: [2] krsort() expects parameter 1 to be array, null given D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 196 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T16:00:46+08:00 ] 61.145.182.18 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='admin' AND password='21232f297a57a5a743894a0e4a801fc3' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 167 行.
+SQL: SHOW COLUMNS FROM `tp_function` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `ups` = 0 AND `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_function` WHERE `state` = 1 ORDER BY sort asc  [ RunTime:0.0000s ]
+NOTIC: [2] krsort() expects parameter 1 to be array, null given D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 194 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 196 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant ups - assumed 'ups' D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+NOTIC: [8] Undefined index: ups D:\wwwroot\canku\wwwroot\Application\Runtime\Cache\Home\f3dbc58d1f558fa5f643e52c796ac6c4.php 第 149 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T16:00:56+08:00 ] 101.226.89.117 /index.php/Home/System/func
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T16:00:56+08:00 ] 101.226.89.117 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:32:35+08:00 ] 183.57.53.177 /index.php/Home/User/ValidateCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:32:43+08:00 ] 61.151.226.199 /index.php/Home/User/ValidateCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:38:37+08:00 ] 183.57.53.177 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:38:46+08:00 ] 180.153.214.178 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:38:46+08:00 ] 180.153.214.191 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T17:41:18+08:00 ] 101.226.68.215 /index.php/Home/User/iframe?CONTROLLER_NAME%3DSystem%26ACTION_NAME%3Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-08T17:41:18+08:00 ] 101.226.68.215 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T17:41:27+08:00 ] 180.153.214.200 /index.php/Home/User/iframe?CONTROLLER_NAME%3DSystem%26ACTION_NAME%3Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-08T17:41:27+08:00 ] 180.153.214.200 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T18:02:05+08:00 ] 183.57.53.197 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\IndexController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T18:02:05+08:00 ] 183.57.53.197 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T18:09:21+08:00 ] 101.226.33.208 /index.php/Home/Department/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\DepartmentController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T18:09:21+08:00 ] 101.226.33.208 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T18:27:22+08:00 ] 183.57.53.196 /index.php/Home/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T18:27:22+08:00 ] 183.57.53.196 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T18:27:31+08:00 ] 101.226.125.104 /index.php/Home/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T18:27:31+08:00 ] 101.226.125.104 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T20:21:04+08:00 ] 101.226.68.215 /index.php/Home/User/iframe?CONTROLLER_NAME%253DSystem%2526ACTION_NAME%253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-08T20:21:04+08:00 ] 101.226.68.215 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T20:21:12+08:00 ] 180.153.214.152 /index.php/Home/User/iframe?CONTROLLER_NAME%253DSystem%2526ACTION_NAME%253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-08T20:21:12+08:00 ] 180.153.214.152 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T20:54:20+08:00 ] 101.226.99.196 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T22:16:23+08:00 ] 61.151.226.199 /index.php/Home/System/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Non-static method Home\Controller\UserController::User_info() should not be called statically, assuming $this from incompatible context D:\wwwroot\canku\wwwroot\Application\Home\Controller\SystemController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `tp_users` WHERE ( username='' AND password='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-03-08T22:16:23+08:00 ] 61.151.226.199 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T22:29:59+08:00 ] 101.226.89.119 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-08T23:31:53+08:00 ] 101.226.33.206 /index.php/Home/User/iframe?CONTROLLER_NAME%25253DSystem%252526ACTION_NAME%25253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-08T23:31:53+08:00 ] 101.226.33.206 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-08T23:32:06+08:00 ] 113.58.232.103 /index.php/Home/User/iframe?CONTROLLER_NAME%25253DSystem%252526ACTION_NAME%25253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+

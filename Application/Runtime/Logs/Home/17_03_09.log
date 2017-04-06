@@ -1,0 +1,144 @@
+[ 2017-03-09T02:15:29+08:00 ] 183.57.53.197 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T02:29:28+08:00 ] 119.147.207.158 /index.php/Home/User/iframe?CONTROLLER_NAME%2525253DSystem%25252526ACTION_NAME%2525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T02:29:28+08:00 ] 119.147.207.158 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T02:29:37+08:00 ] 101.226.68.213 /index.php/Home/User/iframe?CONTROLLER_NAME%2525253DSystem%25252526ACTION_NAME%2525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T02:29:37+08:00 ] 101.226.68.213 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T03:53:43+08:00 ] 183.57.53.222 /index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: action D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-03-09T05:30:05+08:00 ] 117.185.27.115 /index.php/Home/User/iframe?CONTROLLER_NAME%252525253DSystem%2525252526ACTION_NAME%252525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T05:30:05+08:00 ] 117.185.27.115 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T08:36:41+08:00 ] 101.226.66.178 /index.php/Home/User/iframe?CONTROLLER_NAME%25252525253DSystem%252525252526ACTION_NAME%25252525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T08:36:41+08:00 ] 101.226.66.178 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T11:03:04+08:00 ] 101.226.89.119 /index.php/Home/User/iframe?CONTROLLER_NAME%2525252525253DSystem%25252525252526ACTION_NAME%2525252525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T11:03:05+08:00 ] 101.226.89.119 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+
+[ 2017-03-09T14:48:59+08:00 ] 180.153.201.28 /index.php/Home/User/iframe?CONTROLLER_NAME%252525252525253DSystem%2525252525252526ACTION_NAME%252525252525253Dindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: CONTROLLER_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+NOTIC: [8] Undefined index: ACTION_NAME D:\wwwroot\canku\wwwroot\Application\Home\Controller\UserController.class.php 第 133 行.
+
+[ 2017-03-09T14:48:59+08:00 ] 180.153.201.28 /index.php/Home/User/Home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:Home
+

@@ -1,0 +1,73 @@
+﻿<!Doctype html><html xmlns=http://www.w3.org/1999/xhtml>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+						* {
+							padding: 0;
+							margin: 0;
+						}
+						body {
+							height: 2000px;
+						}
+						.float_layer {border: 1px solid #aaaaaa; }
+						.float_layer h2 { height: 25px; line-height: 25px; padding-left: 10px; font-size: 14px; color: #333; background: url(../images/title_bg.gif) repeat-x; border-bottom: 1px solid #aaaaaa; position: relative; }
+						.float_layer .min { width: 21px; height: 20px; background: url(../images/min.gif) no-repeat 0 bottom; position: absolute; top: 2px; right: 25px; }
+						.float_layer .min:hover { background: url(../images/min.gif) no-repeat 0 0; }
+						.float_layer .max { width: 21px; height: 20px; background: url(../images/max.gif) no-repeat 0 bottom; position: absolute; top: 2px; right: 25px; }
+						.float_layer .max:hover { background: url(../images/max.gif) no-repeat 0 0; }
+						.float_layer .close { width: 21px; height: 20px; background: url(../images/close.gif) no-repeat 0 bottom; position: absolute; top: 2px; right: 3px; }
+						.float_layer .close:hover { background: url(../images/close.gif) no-repeat 0 0; }
+						.float_layer .content2 { height:250px; width:300px; overflow: hidden; font-size: 14px; line-height: 18px; color: #666;  }
+						.float_layer .wrap2 { padding:0 }
+</style>
+<script src="__PUBLIC__/js/jquery-latest.js"></script>
+</head>
+
+<body class="body-show">
+
+	<!--	<audio src="tishi.mp3" autoplay="autoplay">Your browser does not support the audio element.</audio>
+			<div class="float_layer" id="miaov_float_layer" style="z-index:10001;background-color:FFFFFF"> <h2> <b>提示</b> <a id="btn_min" href="javascript:;" class="min"></a>
+			 <a id="btn_close" href="javascript:;" class="close">×</a> </h2>  <div class="content2">  
+			 <div  style="text-align:center;margin:50px 0; font:normal 14px/24px ;"> 
+				你有工单需要验收啦！    </div>			  </div>	</div>
+	-->
+</body>
+
+
+<script>
+	$(function(){
+			$(document).on("click",".close",function(){
+			
+		
+		
+					$(".float_layer").hide();
+							
+			})
+									
+				
+	})
+	window.setInterval(ajax_reload, 5000); 			
+	function ajax_reload(){
+		
+		$(".body-show").html("");
+		$.post("/index.php/Home/System/tishi",{"action":"System_need"},function(data){
+				
+					if(data.error == 0)
+					{
+						var html='<audio src="tishi.mp3" autoplay="autoplay">Your browser does not support the audio element.</audio>'+
+						'<div class="float_layer" id="miaov_float_layer" style="z-index:10001;background-color:FFFFFF"> <h2> <b>提示</b> <a id="btn_min" href="javascript:;" class="min"></a>'+
+						' <a id="btn_close" href="javascript:;" class="close">×</a> </h2>  <div class="content2">   <div  style="text-align:center;margin:50px 0; font:normal 14px/24px ;"> '+
+						'   	 <a  target="_parent" href="/index.php/Home/User/del_System_need">	'+data.info+'		</a>			    </div>			  </div>	</div>';
+						$(".body-show").prepend(html);
+						
+					}
+							
+				
+					
+				},"json")
+		
+		
+	}
+	
+</script>
